@@ -25,4 +25,5 @@ A simple 6x6 Go-Moku game where you play against the computer.
 - The computer will make random moves
 
 
-  Made by: Khaleel ALabbadi
+  Made by:
+  ## Khaleel Al-Abbadi
